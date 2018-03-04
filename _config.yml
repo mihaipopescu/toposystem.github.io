@@ -1,5 +1,5 @@
 # Site settings
-title: TopoSystem
+title: TopoSystem Craiova
 email: sorin.popescu@toposystem.ro
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -7,7 +7,7 @@ url: "http://toposystem.ro" # the base hostname & protocol for your site
 
 mobile: 0744699280
 fax: 0251417842
-address: Craiova
+address: Str. Mihail Kogălniceanu, nr. 20, Et. 1, Cam. 19, Criova
 
 # Build settings
 markdown: kramdown
